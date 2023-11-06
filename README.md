@@ -33,8 +33,8 @@ docker compose up -d
 
 Browse the shop:
 
-- Front-office: https://localhost:8000
-- Back-office: https://localhost:8000/ps-admin
+- Front-office: http://localhost:9000
+- Back-office: http://localhost:9000/ps-admin
 
 Default credentials are:
 
